@@ -12,28 +12,28 @@ const OrigamiSchedule = ({ image, text }) => {
       </p>
 
       <p>
-        <b>Monday 10:00 - 10:30</b>
+        <b>Monday 10:00am - 10:30am</b>
       </p>
       <p>
         (June 19 - Crane, 26 - Ninja Star July 3 - Butterfly, 10- Tulips, 17-
         box with lid, 24 - Boat that floats, 31 -Rabbit)
       </p>
       <p>
-        <b>Tuesday 10:00 - 10:30</b>
+        <b>Tuesday 10:00am - 10:30am</b>
       </p>
       <p>
         (June 20- Dinosaur, 27 - Parrot July 11- Peacock, 18 - shark, 25 -
         Penguins book mark Aug 1-elephant bookmark)
       </p>
       <p>
-        <b>Wednesday 10:00 - 10:30</b>
+        <b>Wednesday 10:00am - 10:30am</b>
       </p>
       <p>
         (June 21- Lotus, 28 - cat bookmark July 12 - Frog, 19 - airplane, 26 -
         wallet Aug 2 - heart)
       </p>
       <p>
-        <b>Thursday 10:00 - 10:30</b>
+        <b>Thursday 10:00am - 10:30am</b>
       </p>
       <p>
         (June 22 - Envelope , 29 - Basketball Court with hoops July 13 - Iris

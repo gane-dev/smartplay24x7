@@ -6,9 +6,10 @@ const Chess = () => {
         opponent’s King in a time sensitive thought provoking chess game.
       </p>
       <p>
-        <b>Materials</b>: We will use{" "}
-        <a href="chess.com" target="_blank" rel="noreferrer">
-          chess.com.
+        <b>Materials</b>:
+        <a href="http://www.chess.com" target="_blank" rel="noreferrer">
+          {" "}
+          We will use Chess.com
         </a>
         <p>Assess your proficiency level to decide your group.</p>
       </p>
@@ -20,28 +21,28 @@ const Chess = () => {
         <tr>
           <td>Beginner</td>
           <td>
-            Log in to Chess.com Navigate to tab: Play - Computer - Beginner
-            Select Bot ‘Elani 400’ If you are able to consistently beat Elani
-            400 in 3 out of 5 games, then you are an intermediate player. If you
-            can't, then you are a beginner.
+            Log in to Chess.com. Navigate to tab: Play - &gt; Computer -
+            &gt;Beginner Select Bot ‘Elani 400’ If you are able to consistently
+            beat Elani 400 in 3 out of 5 games, then you are an intermediate
+            player. If you can't, then you are a beginner.
           </td>
         </tr>
         <tr>
           <td>Intermediate</td>
           <td>
-            Log in to Chess.com Navigate to tab: Play- Computer-Intermediate
-            Select Bot ‘Emir 1000’ If you are able to consistently beat Emir
-            1000 in 3 out of 5 games, then you are an advanced player. If you
-            cant, then you are an intermediate player.
+            Log in to Chess.com. Navigate to tab: Play- &gt; Computer -
+            &gt;Intermediate Select Bot ‘Emir 1000’ If you are able to
+            consistently beat Emir 1000 in 3 out of 5 games, then you are an
+            advanced player. If you can't, then you are an intermediate player.
           </td>
         </tr>
         <tr>
           <td>Advanced</td>
           <td>
-            Log in to Chess.com Navigate to tab: Play- Computer-Advanced Select
-            Bot ‘Francis 2300’ If you are able to consistently beat Francis 2300
-            in 3 out of 5 games, then you are a Master player. If you can't,
-            then you are an intermediate player.
+            Log in to Chess.com. Navigate to tab: Play- &gt; Computer -
+            &gt;Advanced Select Bot ‘Francis 2300’ If you are able to
+            consistently beat Francis 2300 in 3 out of 5 games, then you are a
+            Master player. If you can't, then you are an Advanced player.
           </td>
         </tr>
       </table>

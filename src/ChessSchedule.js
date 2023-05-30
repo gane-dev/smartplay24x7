@@ -15,13 +15,13 @@ const ChessSchedule = () => {
       <p>
         <b>Session Name: Introductory (June 19, 26, July 3, 10, 17, 24, 31)</b>
       </p>
-      <p>Classes run every Monday 9:00- 9:45 a.m</p>
+      <p>Classes run every Monday 9:00am- 9:45 am</p>
       <p>
         <b>Challenge Time</b>: Find players of your skill level and play against
         them in a safe virtual room.
       </p>
       <p>
-        <b>Beginners (M-F 2:00 - 2:30)</b>
+        <b>Beginners (M-F 2:00pm - 2:30pm)</b>
       </p>
       <p>
         <a
@@ -33,7 +33,7 @@ const ChessSchedule = () => {
         </a>
       </p>
       <p>
-        <b>Intermediate (M-F 2:30 - 3:00)</b>
+        <b>Intermediate (M-F 2:30pm - 3:00pm)</b>
       </p>
       <p>
         <a
@@ -45,7 +45,7 @@ const ChessSchedule = () => {
         </a>
       </p>
       <p>
-        <b>Advanced (M-F 3:00 - 3:30)</b>
+        <b>Advanced (M-F 3:00pm - 3:30pm)</b>
       </p>
       <p>
         <a
@@ -57,7 +57,7 @@ const ChessSchedule = () => {
         </a>
       </p>
       <p>
-        <b>Master (M-F 3:30 - 4:00)</b>
+        <b>Master (M-F 3:30pm - 4:00pm)</b>
       </p>
       <p>
         <a

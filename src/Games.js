@@ -4,13 +4,25 @@ import Meet from "./Meet";
 import SpeedCubing from "./SpeedCubing";
 import Chess from "./Chess";
 import Origami from "./Origami";
-
+import Accordion from "./Accordion";
 const Games = () => {
   return (
     <div>
-      <Meet image="/Chess.jpeg" profile={<Chess />}></Meet>
-      <Meet image="/speed.jpeg" profile={<SpeedCubing />}></Meet>
-      <Meet image="/origami.jpeg" profile={<Origami />}></Meet>
+      <Accordion
+        key={1}
+        title={"CheckMate"}
+        content={<Meet image="/Chess.jpeg" profile={<Chess />}></Meet>}
+      />
+      <Accordion
+        key={2}
+        title={"Speed Cubing"}
+        content={<Meet image="/speed.jpeg" profile={<SpeedCubing />}></Meet>}
+      />
+      <Accordion
+        key={3}
+        title={"Origami"}
+        content={<Meet image="/origami.jpeg" profile={<Origami />}></Meet>}
+      />
     </div>
   );
 };

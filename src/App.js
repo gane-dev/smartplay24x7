@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="app">
       <header className="header">
-        <div>
+        <div className="logo">
           <img
             src={process.env.PUBLIC_URL + "/logo-transparent-png.png"}
             alt="Sample"
@@ -62,12 +62,16 @@ function App() {
         </section>
       </main>
       <footer className="footer">
-        <p>
-          <b>Contact Us</b>: Smartplay24x7@gmail.com
-        </p>
-        <p>
-          <i>Feedback / Testimonials will help us grow</i>
-        </p>
+        <table className="no-border">
+          <tr>
+            <td>
+              <b>Contact Us</b>: Smartplay24x7@gmail.com
+            </td>
+            <td>
+              <i>Feedback / Testimonials will help us grow</i>
+            </td>
+          </tr>
+        </table>
       </footer>
     </div>
   );
