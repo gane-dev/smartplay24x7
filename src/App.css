@@ -50,6 +50,7 @@ display: flex;
 
 .section {
   margin: 50px 0;
+  text-align: center;
 }
 header {
   background-color: #333;
@@ -148,7 +149,6 @@ main {
 .text-container {
   align-items: center; /* Center the text vertically */
   justify-content: center; /* Center the text horizontally */
-  height: 300px; /* Adjust the container height as needed */
   border: 1px solid #ccc; /* Optional: Add a border for visualization */
   margin-left: 10px; /* Add spacing between the image and text */
 }
@@ -168,15 +168,15 @@ h2 {
   text-align: center;
 }
 table {
-  border-collapse: collapse;
   width: 70%;
   align-items: center;
+  border: #080808;
 }
 
 th, td {
   padding: 8px;
   text-align: left;
-  border-bottom: 1px solid #ddd;
+  border: 1px solid #ddd;
 }
 
 th {
@@ -193,14 +193,15 @@ tr:hover {
 .schedule-container {
  background-color: lightgrey;
  text-align: center;
-  min-height: 70vh;
+  min-height: 80vh;
 }
 button {
-  background-color: rgba(255, 166, 0, 0.574);
+  background-color:#2980b9;
   font-style: italic;
   font-size: 16px;
   width: 150px;
   height: 30px;
+  color: #fdfefe;
 }
 .schedule-table {
   width: 100%;

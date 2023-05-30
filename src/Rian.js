@@ -5,22 +5,24 @@ const Rian = () => {
         <b>Rian Ganesh - Founder</b>
       </p>
       <p>
-        Speed is my favorite word. I started cubing in March 2022, when my mom
-        gifted us the first 3X3. Being the curious George myself, I locked
-        myself in a room in an attempt to solve it. It took me 4 straight hrs to
-        mimic a youtube video. I tried to self learn the algorithm and in no
-        time I was able to solve it myself. My dad promised me to drive to a
-        competition in west virginia if i was able to solve it in less than 30
-        secs. Today, my personal best is 10.49 secs with a 3x3. I can also
-        comfortably solve cubes with one hand and my cubes vary from 2x2 to 7x7,
-        Square1, Megaminx, Pyraminx and a Skewb.
+        I started the endeavor of Speedcubing just over a year ago in March of
+        2022, when I got my first 3x3. Determined to learn how to solve this
+        puzzle, I spent some time in my room trying to figure out how to figure
+        this out, and with the help of Youtube I finally learnt. My father
+        promised me that if I could consistently solve a Rubik’s Cube in under
+        30 seconds I could go to a Cubing Competition in West Virginia. I
+        managed to do so, in about two months, and at that competition I got a
+        Personal Record of 27.49. Since then I’ve been constantly improving, and
+        now have a Personal record of 10.49 seconds in competition. I can solve
+        many different cubes, from 2x2 to 7x7, and a variety of other puzzles
+        like Pyraminx, Skewb, Square-1, and Megaminx.
       </p>
       <a
         href="https://www.worldcubeassociation.org/persons/2022GANE01"
         target="_blank"
         rel="noreferrer"
       >
-        World Cube Association Profile
+        Check out my World Cube Association profile
       </a>
       <p>
         <b>

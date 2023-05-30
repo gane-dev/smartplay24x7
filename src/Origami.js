@@ -8,7 +8,7 @@ const Origami = () => {
       <p>
         These 30 mins sessions will cover anything from animals to flowers. If
         you have something in your mind, feel free to bring it to the table. We
-        love suggestions!
+        love suggestions! Refer schedule to learn about various projects.
       </p>
     </div>
   );

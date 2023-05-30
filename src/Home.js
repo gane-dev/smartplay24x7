@@ -31,8 +31,9 @@ const WhoWeAre = () => {
     <div>
       <ul>
         <li>
-          We are self motivated middle school analytical thinkers, challenging
-          our hand eye coordinations.
+          We are a group of self-motivated middle school students who excel in
+          analytical thinking. We thrive on challenges that test our hand-eye
+          coordination skills.
         </li>
         <li>
           With lightning thinking speed and dexterous fingers, we beat time!
@@ -49,9 +50,10 @@ const WhyAreWe = () => {
   return (
     <div>
       <p>
-        We like playdates. And what's better than forming a virtual club to meet
-        more friends, challenging each other for a good mental sport, while
-        beating not just the time but also the scorching summer heat
+        We enjoy playdates, and what could be better than creating a virtual
+        club to connect with more friends? We can challenge each other to
+        engaging mental games, all while overcoming not only the clock but also
+        the sweltering summer heat.
       </p>
     </div>
   );

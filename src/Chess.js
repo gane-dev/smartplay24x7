@@ -2,18 +2,19 @@ const Chess = () => {
   return (
     <div className="text-container">
       <p>
-        <b>Chessmatic</b> - Control an army of chess pieces and checkmate your
-        opponent’s King in this time sensitive thought provoking chess game.
+        <b>CheckMate</b> - Control an army of chess pieces and checkmate your
+        opponent’s King in a time sensitive thought provoking chess game.
       </p>
       <p>
-        <b>Materials</b>: we will use chess.com Classes will be recorded and
-        shared for future reference Assess your proficiency level to decide your
-        group.
+        <b>Materials</b>: We will use{" "}
+        <a href="chess.com" target="_blank" rel="noreferrer">
+          chess.com.
+        </a>
+        <p>Assess your proficiency level to decide your group.</p>
       </p>
-
       <table>
         <tr>
-          <td>Level</td>
+          <td>Introductory</td>
           <td>Need to learn the rules of chess</td>
         </tr>
         <tr>
@@ -37,10 +38,10 @@ const Chess = () => {
         <tr>
           <td>Advanced</td>
           <td>
-            Log in to Chess.com Navigate to tab: Play- Computer-Intermediate
-            Select Bot ‘Francis 2300’ If you are able to consistently beat
-            Francis 2300 in 3 out of 5 games, then you are a Master player. If
-            you can't, then you are an intermediate player.
+            Log in to Chess.com Navigate to tab: Play- Computer-Advanced Select
+            Bot ‘Francis 2300’ If you are able to consistently beat Francis 2300
+            in 3 out of 5 games, then you are a Master player. If you can't,
+            then you are an intermediate player.
           </td>
         </tr>
       </table>

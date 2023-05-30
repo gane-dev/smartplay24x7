@@ -1,10 +1,12 @@
 const SpeedCubing = () => {
   return (
     <div className="text-container">
-      <p>Age 8 and above. </p>
       <p>
-        Speed Cubing - Solve a variety of combinational puzzles racing against
-        time. Observe, Orient, decide and act in a second.{" "}
+        <b>Speed Cubing</b> - Solve a variety of combinational puzzles racing
+        against time. Observe, Orient, decide and act in a second.{" "}
+      </p>
+      <p>
+        <b>Materials: Bring your own cube to the virtual sessions.</b>
       </p>
       <p>All cube sizes have 3 levels.</p>
       <p>
@@ -21,9 +23,11 @@ const SpeedCubing = () => {
         Advanced - This is an advanced level course where you are ready to
         participate in competitions and are looking for healthy competitors to
         perfect your skill. Your average speed varies between 30 - 6 secs.
-        Materials: Bring your own cube to the virtual sessions.
       </p>
-      <p>Classes will be recorded and shared for future reference. </p>
+      <p>
+        If you are new to cubing, we recommend the following order - 3x3, 2x2,
+        Pyraminx, 3x3 One Handed
+      </p>
       <p>Suit your proficiency level by checking the matrix.</p>
       <table>
         <tr>
@@ -34,15 +38,27 @@ const SpeedCubing = () => {
         </tr>
         <tr>
           <td>2x2</td>
+          <td></td>
+          <td></td>
+          <td></td>
         </tr>
         <tr>
           <td>3x3</td>
+          <td></td>
+          <td></td>
+          <td></td>
         </tr>
         <tr>
           <td>3x3 One Handed</td>
+          <td></td>
+          <td></td>
+          <td></td>
         </tr>
         <tr>
           <td>Pyraminx</td>
+          <td></td>
+          <td></td>
+          <td></td>
         </tr>
       </table>
     </div>

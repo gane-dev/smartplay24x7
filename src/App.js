@@ -40,28 +40,33 @@ function App() {
       </header>
       <main className="content">
         <section id="home" className="section">
-          <h2>About Us</h2>
+          <h1>About Us</h1>
           <Home></Home>
-        </section>
-        <section id="overview" className="section">
           <h2>Meet the Team</h2>
           <MeetTheTeam></MeetTheTeam>
-          <h2>Overview</h2>
+        </section>
+        <section id="overview" className="section">
+          <h1>Overview</h1>
+          <h3>
+            All classes are available for participants of ages between 8 to 12
+          </h3>
           <Games></Games>
         </section>
         <section id="registration" className="section">
-          <h2>Schedule</h2>
+          <h1>Schedule (All time in EST)</h1>
           <Schedule></Schedule>
         </section>
         <section id="events" className="section">
-          <h2>Events</h2>
+          <h1>Summer 2023 Wrap up Tournaments</h1>
           <Events></Events>
         </section>
       </main>
       <footer className="footer">
         <p>
-          Only Text / Whatsapp messages - 703.865.1830 Email:
-          Smartplay24x7@gmail.com
+          <b>Contact Us</b>: Smartplay24x7@gmail.com
+        </p>
+        <p>
+          <i>Feedback / Testimonials will help us grow</i>
         </p>
       </footer>
     </div>

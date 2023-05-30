@@ -5,11 +5,11 @@ import Button from "./Button";
 const OrigamiSchedule = ({ image, text }) => {
   return (
     <div className="schedule-container">
+      <br></br>
       <p>
-        Join Reya Ganesh on an origami date and make beautiful 3rd arts with
-        papers.
+        Join Reya Ganesh on an origami date and make beautiful paper art
+        projects.
       </p>
-      <p>Ages 8 and above.</p>
 
       <p>
         <b>Monday 10:00 - 10:30</b>
@@ -39,6 +39,7 @@ const OrigamiSchedule = ({ image, text }) => {
         (June 22 - Envelope , 29 - Basketball Court with hoops July 13 - Iris
         Flower, 20 - Twitter bird , 27 - Koi Fish Aug 3 - Human)
       </p>
+      <br></br>
       <Button
         label="Register"
         url="https://docs.google.com/forms/d/e/1FAIpQLScd-85US7cGjC1HIs3k72vzEfEpgFmX9n5HPC6q9GM9Dkqdcg/viewform?usp=share_link"

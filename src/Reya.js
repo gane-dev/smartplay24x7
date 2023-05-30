@@ -18,7 +18,7 @@ const Reya = () => {
         target="_blank"
         rel="noreferrer"
       >
-        World Cube Association Profile
+        Check out my World Cube Association profile
       </a>
       <p>
         <b>

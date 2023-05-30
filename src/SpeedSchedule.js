@@ -4,6 +4,7 @@ import Button from "./Button";
 const SpeedSchedule = ({ image, text }) => {
   return (
     <div className="schedule-container">
+      <br></br>
       <p>
         Class runs from Jun 19 to Aug 4, all Mondays -Thursdays except July 4.
       </p>
@@ -36,6 +37,7 @@ const SpeedSchedule = ({ image, text }) => {
       <p>Beginner- Thursday 10:00 a.m - 10:45 a.m</p>
       <p>Intermediate - Thursday 11:00 a.m -11:45 a.m</p>
       <p>Advanced - Thursday 1:00 p.m - 1:45 p.m</p>
+      <br></br>
       <Button
         label="Register"
         url="https://docs.google.com/forms/d/e/1FAIpQLSd7iXR4Zo7YtsNKy9jWBs_BbE_CP7TlCLuDf05ztPnHv4r6YQ/viewform?usp=share_link"

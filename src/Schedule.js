@@ -14,7 +14,7 @@ const Schedule = () => {
         <ChessSchedule></ChessSchedule>
       </div>
       <div>
-        <h2>Origami</h2>
+        <h2>Origamics</h2>
         <OrigamiSchedule></OrigamiSchedule>
       </div>
     </div>
