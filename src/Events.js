@@ -1,9 +1,10 @@
+import Button from "./Button";
 const Events = ({ image, text }) => {
   return (
     <div className="events">
       <p>
-        Aug 4 Friday - will be our last day of this season. We plan to host
-        in-person tournament events with all our participants.
+        July 29th Saturday - will be our last day of this season. We plan to
+        host in-person tournament events with all our participants.
       </p>
       <p> Time: 6:00 - 7:30 pm in Clarksburg</p>
       <p>
@@ -16,9 +17,10 @@ const Events = ({ image, text }) => {
       <p>
         <b>Rewards</b>
       </p>
-      <p>All participants will get a participation certificates.</p>
+      <p>All participants will get a participation certificate.</p>
       <p> Prizes for tournament winners !!!</p>
       <p>Pizza on us!!!</p>
+      <Button label="Signup" url="https://forms.gle/WAm6joPnqpxmAEby7" />
     </div>
   );
 };

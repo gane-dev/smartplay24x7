@@ -11,39 +11,33 @@ const OrigamiSchedule = ({ image, text }) => {
         projects.
       </p>
 
+      <p>Workshop runs from July 10 - July 28, M-Thur 10:00 am to 10:30 am</p>
       <p>
         <b>Monday 10:00am - 10:30am</b>
       </p>
       <p>
-        (June 19 - Crane, 26 - Ninja Star July 3 - Butterfly, 10- Tulips, 17-
-        box with lid, 24 - Boat that floats, 31 -Rabbit)
+        Crane, Ninja Star, Butterfly, Tulips, box with lid, Boat that floats,
+        Rabbit
       </p>
       <p>
         <b>Tuesday 10:00am - 10:30am</b>
       </p>
       <p>
-        (June 20- Dinosaur, 27 - Parrot July 11- Peacock, 18 - shark, 25 -
-        Penguins book mark Aug 1-elephant bookmark)
+        Dinosaur, Parrot, Peacock, shark, Penguins book mark , elephant bookmark
       </p>
       <p>
         <b>Wednesday 10:00am - 10:30am</b>
       </p>
-      <p>
-        (June 21- Lotus, 28 - cat bookmark July 12 - Frog, 19 - airplane, 26 -
-        wallet Aug 2 - heart)
-      </p>
+      <p>Lotus, cat bookmark , Frog, Airplane, Wallet , heart</p>
       <p>
         <b>Thursday 10:00am - 10:30am</b>
       </p>
       <p>
-        (June 22 - Envelope , 29 - Basketball Court with hoops July 13 - Iris
-        Flower, 20 - Twitter bird , 27 - Koi Fish Aug 3 - Human)
+        Envelope , Basketball Court with hoops , Iris Flower, Twitter bird , Koi
+        Fish Human
       </p>
       <br></br>
-      <Button
-        label="Register"
-        url="https://docs.google.com/forms/d/e/1FAIpQLScd-85US7cGjC1HIs3k72vzEfEpgFmX9n5HPC6q9GM9Dkqdcg/viewform?usp=share_link"
-      />
+      <Button label="Register" url="https://forms.gle/SnoGiPozkwCRXEp3A" />
     </div>
   );
 };

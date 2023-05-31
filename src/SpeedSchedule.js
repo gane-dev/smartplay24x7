@@ -5,43 +5,32 @@ const SpeedSchedule = ({ image, text }) => {
   return (
     <div className="schedule-container">
       <br></br>
-      <p>
-        Class runs from Jun 19 to Aug 4, all Mondays -Thursdays except July 4.
-      </p>
-
+      <p>We recommend learning 3x3, then move on to 2x2, Pyraminx</p>
+      <p>Workshops run from Mon - Fri</p>
       <p>
         <b>Instructor Name</b>: Rian Ganesh
       </p>
 
       <p>
-        <b>2x2 (June 19, 26, July 3, 10, 17, 24, 31)</b>
+        <b>3x3 (July 10 - July 14)</b>
       </p>
-      <p>Beginner- Monday 10:00 am - 10:45 am</p>
-      <p>Intermediate - Monday 11:00 am -11:45 am</p>
-      <p>Advanced - Monday 1:00 pm - 1:45 pm</p>
+      <p>Beginner - 10:00 am - 10:45 am</p>
+      <p>Intermediate - 11:00 am -11:45 am</p>
+      <p>Advanced - 1:00 pm - 1:45 pm</p>
       <p>
-        <b>3x3 (June 20, 27, July 11, 18, 25, Aug 1)</b>
+        <b>2x2 (July 17 - July 21)</b>
       </p>
-      <p>Beginner- Tuesday 10:00 am - 10:45 am</p>
-      <p>Intermediate - Tuesday 11:00 am -11:45 am</p>
-      <p>Advanced - Tuesday 1:00 pm - 1:45 pm</p>
+      <p>Beginner - 10:00 am - 10:45 am</p>
+      <p>Intermediate - 11:00 am -11:45 am</p>
+      <p>Advanced - 1:00 pm - 1:45 pm</p>
       <p>
-        <b>3x3 OH (One Handed) (June 21, 28, July 12, 19, 26, Aug 2)</b>
+        <b>Pyraminx (July 24 - July 28)</b>
       </p>
-      <p>Beginner- Wednesday 10:00 am - 10:45 am</p>
-      <p>Intermediate - Wednesday 11:00 am -11:45 am</p>
-      <p>Advanced - Wednesday 1:00 pm - 1:45 pm</p>
-      <p>
-        <b>Pyraminx (June 22, 29, July 13, 20, 27, Aug 3)</b>
-      </p>
-      <p>Beginner- Thursday 10:00 am - 10:45 am</p>
-      <p>Intermediate - Thursday 11:00 am -11:45 am</p>
-      <p>Advanced - Thursday 1:00 pm - 1:45 pm</p>
+      <p>Beginner - 10:00 am - 10:45 am</p>
+      <p>Intermediate - 11:00 am -11:45 am</p>
+      <p>Advanced - 1:00 pm - 1:45 pm</p>
       <br></br>
-      <Button
-        label="Register"
-        url="https://docs.google.com/forms/d/e/1FAIpQLSd7iXR4Zo7YtsNKy9jWBs_BbE_CP7TlCLuDf05ztPnHv4r6YQ/viewform?usp=share_link"
-      />
+      <Button label="Register" url="https://forms.gle/BC8rp5uwGeskeJZq5" />
     </div>
   );
 };

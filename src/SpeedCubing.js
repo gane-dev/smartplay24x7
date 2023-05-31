@@ -26,7 +26,7 @@ const SpeedCubing = () => {
       </p>
       <p>
         If you are new to cubing, we recommend the following order - 3x3, 2x2,
-        Pyraminx, 3x3 One Handed
+        Pyraminx
       </p>
       <p>Suit your proficiency level by checking the matrix.</p>
       <table>
@@ -48,12 +48,7 @@ const SpeedCubing = () => {
           <td></td>
           <td></td>
         </tr>
-        <tr>
-          <td>3x3 One Handed</td>
-          <td></td>
-          <td></td>
-          <td></td>
-        </tr>
+
         <tr>
           <td>Pyraminx</td>
           <td></td>

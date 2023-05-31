@@ -15,7 +15,7 @@ const Chess = () => {
       </p>
       <table>
         <tr>
-          <td>Introductory</td>
+          <td>Pre-Beginner</td>
           <td>Need to learn the rules of chess</td>
         </tr>
         <tr>

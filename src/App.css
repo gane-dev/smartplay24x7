@@ -218,6 +218,60 @@ button {
 .logo {
   float: left;
 }
+.logo-right {
+  float: right;
+}
 h1 {
   color: #7b241c;
 }
+.registration {
+  color: #0b15ef;
+  font-size:30px;
+  font-weight: bolder;
+  text-align: center;
+}
+.marquee {
+  width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.marquee p {
+  display: inline-block;
+  margin: 0;
+  padding: 0 10px;
+  animation: marquee 10s linear infinite;
+}
+
+@keyframes marquee {
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(-100%); }
+}
+.flex-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.cell {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.flex-container {
+  display: flex;
+}
+
+.flex-item {
+  flex: 0 0 200px; /* Set fixed width for each cell */
+  border: 1px solid #000;
+  padding: 10px;
+}
+
+
+
+

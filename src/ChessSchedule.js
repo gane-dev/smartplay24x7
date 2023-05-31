@@ -13,16 +13,16 @@ const ChessSchedule = () => {
         <b>Instructor Name</b>: Reya Ganesh & Rian Ganesh
       </p>
       <p>
-        <b>Session Name: Introductory (June 19, 26, July 3, 10, 17, 24, 31)</b>
+        <b>Pre-Beginner Workshop (June 19 -June 23) </b> 10:00 am - 10:45 am
       </p>
-      <p>Classes run every Monday 9:00am- 9:45 am</p>
       <p>
         <b>Challenge Time</b>: Find players of your skill level and play against
         them in a safe virtual room.
       </p>
       <p>
-        <b>Beginners (M-F 2:00pm - 2:30pm)</b>
+        <b>Beginners (M-F 2:00pm - 2:30pm)</b>:
       </p>
+
       <p>
         <a
           href="https://www.chess.com/club/smart-play-24x7-beginners"
@@ -69,10 +69,7 @@ const ChessSchedule = () => {
         </a>
       </p>
       <br></br>
-      <Button
-        label="Register"
-        url="https://docs.google.com/forms/d/e/1FAIpQLSeyqz18d0VCh2unggTXsvu9OsIdafldKxgaqd7CT_hZDqboKA/viewform?usp=share_link"
-      />
+      <Button label="Register" url="https://forms.gle/skDLeZbvjchuasTM6" />
     </div>
   );
 };
