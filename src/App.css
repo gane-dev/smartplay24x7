@@ -134,6 +134,7 @@ main {
 .container {
   display: flex;
   align-items: flex-start; 
+  margin: 10px;
 }
 .image-logo {
   width: 150px; /* Adjust the width as needed */
@@ -148,11 +149,12 @@ main {
 .text-container {
   align-items: center; /* Center the text vertically */
   justify-content: center; /* Center the text horizontally */
-  border: 1px solid #ccc; /* Optional: Add a border for visualization */
   margin-left: 10px; /* Add spacing between the image and text */
+  margin-right: 10px;
 }
 .text {
   margin-left: 10px; /* Add spacing between the image and text */
+  margin-right: 10px;
   font-size: 14px;
 }
 .schedule {
@@ -167,7 +169,7 @@ h2 {
   text-align: center;
 }
 table {
-  width: 70%;
+  width: 100%;
   align-items: center;
   border: #080808;
 }

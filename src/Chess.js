@@ -1,6 +1,6 @@
 const Chess = () => {
   return (
-    <div className="text-container">
+    <div>
       <p>
         <b>CheckMate</b> - Control an army of chess pieces and checkmate your
         opponent’s King in a time sensitive thought provoking chess game.

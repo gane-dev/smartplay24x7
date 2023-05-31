@@ -1,6 +1,6 @@
 const Rian = () => {
   return (
-    <div className="text-container">
+    <div>
       <p>
         <b>Rian Ganesh - Founder</b>
       </p>

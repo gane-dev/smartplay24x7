@@ -1,6 +1,6 @@
 const SpeedCubing = () => {
   return (
-    <div className="text-container">
+    <div>
       <p>
         <b>Speed Cubing</b> - Solve a variety of combinational puzzles racing
         against time. Observe, Orient, decide and act in a second.{" "}
