@@ -11,26 +11,26 @@ const OrigamiSchedule = ({ image, text }) => {
         projects.
       </p>
 
-      <p>Workshop runs from July 10 - July 28, M-Thur 10:00 am to 10:30 am</p>
+      <p>Workshop runs from July 10 - July 28, Mon-Thur 9:15am to 9:45am</p>
       <p>
-        <b>Monday 10:00am - 10:30am</b>
+        <b>Monday 9:15am - 9:45am</b>
       </p>
       <p>
         Crane, Ninja Star, Butterfly, Tulips, box with lid, Boat that floats,
         Rabbit
       </p>
       <p>
-        <b>Tuesday 10:00am - 10:30am</b>
+        <b>Tuesday 9:15am - 9:45am</b>
       </p>
       <p>
         Dinosaur, Parrot, Peacock, shark, Penguins book mark , elephant bookmark
       </p>
       <p>
-        <b>Wednesday 10:00am - 10:30am</b>
+        <b>Wednesday 9:15am - 9:45am</b>
       </p>
       <p>Lotus, cat bookmark , Frog, Airplane, Wallet , heart</p>
       <p>
-        <b>Thursday 10:00am - 10:30am</b>
+        <b>Thursday 9:15am - 9:45am</b>
       </p>
       <p>
         Envelope , Basketball Court with hoops , Iris Flower, Twitter bird , Koi
