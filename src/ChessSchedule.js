@@ -16,8 +16,8 @@ const ChessSchedule = () => {
         <b>Pre-Beginner Workshop (June 19 -June 23) </b> 10:00 am - 10:45 am
       </p>
       <p>
-        <b>Challenge Time</b>: Find players of your skill level and play against
-        them in a safe virtual room.
+        <b>Challenge Time (June 19th to July 28th)</b>: Find players of your
+        skill level and play against them in a safe virtual room.
       </p>
       <p>
         <b>Beginners (M-F 2:00pm - 2:30pm)</b>:

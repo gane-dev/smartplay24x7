@@ -8,7 +8,7 @@ const OrigamiSchedule = ({ image, text }) => {
       <br></br>
       <p>
         Join Reya Ganesh on an origami date and make beautiful paper art
-        projects.
+        projects. (Bring your own origami papers)
       </p>
 
       <p>Workshop runs from July 10 - July 28, Mon-Thur 9:15am to 9:45am</p>

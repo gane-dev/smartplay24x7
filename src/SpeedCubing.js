@@ -3,7 +3,7 @@ const SpeedCubing = () => {
     <div>
       <p>
         <b>Speed Cubing</b> - Solve a variety of combinational puzzles racing
-        against time. Observe, Orient, decide and act in a second.{" "}
+        against time. Observe, Orient, decide and act in a second.
       </p>
       <p>
         <b>Materials: Bring your own cube to the virtual sessions.</b>

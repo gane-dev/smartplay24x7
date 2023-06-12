@@ -79,7 +79,7 @@ function App() {
       </main>
       <footer className="footer">
         <a
-          href="https://forms.gle/NiLwgA9Zs1tHCrzq8"
+          href="https://forms.gle/ya4oswgeMACfh7wH8"
           target="_blank"
           rel="noreferrer"
         >

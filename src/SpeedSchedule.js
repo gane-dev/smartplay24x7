@@ -6,7 +6,7 @@ const SpeedSchedule = ({ image, text }) => {
     <div className="schedule-container">
       <br></br>
       <p>We recommend learning 3x3, then move on to 2x2, Pyraminx</p>
-      <p>Workshops run from Mon - Fri</p>
+      <p>Workshops run from Mon - Fri (Bring you own cube)</p>
       <p>
         <b>Instructor Name</b>: Rian Ganesh
       </p>
