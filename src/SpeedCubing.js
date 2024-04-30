@@ -34,7 +34,7 @@ Join us as we delve deeper into the intricacies of cubing, empowering you to unl
         <br></br>
         <br></br>
         <br></br>
-        <center><b><h3>Important: It is a Prerequisite for Anybody Taking the 4x4 Course to Know How to Solve a 3x3 Rubik's Cube</h3></b></center>
+        <center><b><h3>Important: It is a prerequisite for anybody taking the 4x4 course to know how to solve a 3x3 Rubik's Cube</h3></b></center>
       </p>
       <br></br>
       <br></br>

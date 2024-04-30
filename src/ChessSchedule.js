@@ -11,22 +11,22 @@ const ChessSchedule = () => {
         <b>Instructor Name</b>: Reya Ganesh & Rian Ganesh
       </p>
       <p>
-        <b>Beginner Classes 3:30-4:00 PM (July 1 - June 26)
+        <b>Beginner Classes 3:30-4:00 PM (July 1 - July 26)
           </b>
           <br></br>
           These classes are only for beginner students who will learn the basics of chess
           <br></br>
           <br></br>
-          <b>Week One:</b> (June 1 - June 5)<br></br>
+          <b>Week One:</b> (July 1 - July 5)<br></br>
           <br></br>
           <br></br>
-          <b>Week Two:</b> (June 8 - June 12)<br></br>
+          <b>Week Two:</b> (July 8 - July 12)<br></br>
           <br></br>
           <br></br>
-          <b>Week Three:</b> (June 15 - June 19)<br></br>
+          <b>Week Three:</b> (July 15 - July 19)<br></br>
           <br></br>
           <br></br>
-          <b>Week Four:</b> (July 22 - June 26)<br></br>
+          <b>Week Four:</b> (July 22 - July 26)<br></br>
         
 
       <p >

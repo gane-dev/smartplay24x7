@@ -66,8 +66,8 @@ function App() {
           <h2>All timings are in Eastern Standard Time (EST)</h2>
           <h3>
            
-Practice sessions will be conducted virtually via Zoom.
-Upon completing your registration, you will receive an email containing the logistical details for accessing the classes.
+We will meet virtually via Zoom.
+Upon completing your registration, lookout for an email from us in June with details about the Zoom link and other important information.
           </h3>
           <Schedule></Schedule>
         </section>
