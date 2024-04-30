@@ -12,25 +12,25 @@ const SpeedSchedule = ({ image, text }) => {
       </p>
 
       <p>
-        <b>3x3 (July 1 - July 5)</b>
+        <b>3x3 (July 8 - July 12)</b>
       </p>
       <p>Beginner - 1 PM - 1:30 PM</p>
       <p>Intermediate - 1:45 PM -2:15 PM</p>
       <p>Advanced - 2:45 PM- 3:15 PM</p>
       <p>
-        <b>2x2 (July 8 - July 12)</b>
+        <b>2x2 (July 15 - July 19)</b>
       </p>
       <p>Beginner - 1 PM - 1:30 PM</p>
       <p>Intermediate - 1:45 PM - 2:15 PM</p>
       <p>Advanced - 2:45 - 3:15 pm</p>
       <p>
-        <b>Pyraminx (July 15 - July 19)</b>
+        <b>Pyraminx (July 22 - July 26)</b>
       </p>
       <p>Beginner - 1:00 PM - 1:30 PM</p>
       <p>Intermediate - 1:45 PM - 2:15 PM</p>
       <p>Advanced - 2:45 - 3:15 pm</p>
 
-        <b>4x4 (July 22 - July 26)</b>
+        <b>4x4 (Jul 29 - Aug 2)</b>
       <p>Beginner - 1 PM - 1:30 PM</p>
       <p>Intermediate - 1:45 PM - 2:15 PM</p>
       <p>Advanced - 2:45 PM - 3:15 PM</p>
