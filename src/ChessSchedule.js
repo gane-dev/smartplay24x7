@@ -5,6 +5,8 @@ const ChessSchedule = () => {
   return (
     <div className="schedule-container">
       <br></br>
+      <b>All Classes are from Monday to Friday</b>
+      <br></br>
       <p >
         <b>Instructor Name</b>: Reya Ganesh & Rian Ganesh
       </p>
@@ -29,64 +31,29 @@ const ChessSchedule = () => {
 
       <p >
         <b>Challenge Time 4:15-4:45 PM (July 1 to July 26)</b>:<br></br>
-        Find players of your skill level and play against them in a safe virtual room.
+        Find players of your skill level and play against them in a safe virtual room. Detailed instructions will be shared when we start these sessions.
+
    
       </p>
       <p>
-        <b>All Group Workshops</b>
+        <b>Practice Sessions for all groups</b>
         <br></br>
         <br></br>
-        <b>Week One:</b> (June 1 - June 5)<br></br>
+        <b>Week One:</b> (July 1 - July 5)<br></br>
         <br></br>
         <br></br>
-        <b>Week Two:</b> (June 8 - June 12)<br></br>
+        <b>Week Two:</b> (July 8 - July 12)<br></br>
         <br></br>
         <br></br>
-        <b>Week Three:</b> (June 15 - June 19)<br></br>
+        <b>Week Three:</b> (July 15 - July 19)<br></br>
         <br></br>
         <br></br>
-        <b>Week Four:</b> (July 22 - June 26)<br></br>
+        <b>Week Four:</b> (July 22 - July 26)<br></br>
 
       </p>
 
-      <p >
-        <b>Please Signup In One of These Clubs (Corresponding to Your Skill Level) To Participate in Our Workshops</b>
-        <br></br>
-        <br></br>
-        <a
-          href="https://www.chess.com/club/smart-play-24x7-beginners"
-          target="_blank"
-          rel="noreferrer"
-        >
-          Beginners Club
-        </a>
-      </p>
-      <p >
-        <b>Intermediate (M-F 2:30PM- 3:00PM)</b>
-      </p>
-      <p >
-        <a
-          href="https://www.chess.com/club/smart-play-24x7-intermediate"
-          target="_blank"
-          rel="noreferrer"
-        >
-          Intermediate Club
-        </a>
-      </p>
-      <p >
-        <b>Advanced (M-F 3:00PM - 3:30PM)</b>
-      </p>
-      <p >
-        <a
-          href="https://www.chess.com/club/smart-play-24x7-advanced"
-          target="_blank"
-          rel="noreferrer"
-        >
-          Advanced Club
-        </a>
-      </p>
-
-      <Button label="Register" url="https://forms.gle/skDLeZbvjchuasTM6" />
+     
+      <Button label="Register" url="https://forms.gle/vkn2kSZ6Ycm1Ub528" />
       <br></br>
       <br></br>
       </p>

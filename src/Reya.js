@@ -12,11 +12,13 @@ const Reya = () => {
       In essence, I firmly adhere to the belief that the true measure of one's strength lies in their ability to confront and overcome challenges.
       </p>
       <p>
-        <b>
-
-          <font size="+2">Fun Fact: I have participated in various Chess tournaments and have even brought home some trophies!</font>
-        </b>
+        <ul>
+        <b>My Achievements:</b>
+          <br></br>
+          Winner of 2023 chess championship conducted by tsgwdc. 
+          </ul>
       </p>
+      
     </div>
   );
 };

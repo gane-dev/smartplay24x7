@@ -57,7 +57,7 @@ function App() {
         <section id="overview" className="section">
           <h1>Overview</h1>
           <h3>
-            Workshops are available for participants of ages between 8 to 12
+            Practice sessions are available for participants of ages between 8 to 12
           </h3>
           <Games></Games>
         </section>
@@ -66,7 +66,7 @@ function App() {
           <h2>All timings are in Eastern Standard Time (EST)</h2>
           <h3>
            
-The workshops will be conducted virtually via Zoom.
+Practice sessions will be conducted virtually via Zoom.
 Upon completing your registration, you will receive an email containing the logistical details for accessing the classes.
           </h3>
           <Schedule></Schedule>

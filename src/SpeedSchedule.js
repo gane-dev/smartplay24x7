@@ -4,7 +4,8 @@ import Button from "./Button";
 const SpeedSchedule = ({ image, text }) => {
   return (
     <div className="schedule-container">
-     
+      <br></br>
+      <b>All Classes are from Monday to Friday</b>
       <br></br>
       <p>
         <b>Instructor Name</b>: Rian Ganesh
@@ -15,7 +16,7 @@ const SpeedSchedule = ({ image, text }) => {
       </p>
       <p>Beginner - 1 PM - 1:30 PM</p>
       <p>Intermediate - 1:45 PM -2:15 PM</p>
-      <p>Advanced - 2:45 PM- 3:13 PM</p>
+      <p>Advanced - 2:45 PM- 3:15 PM</p>
       <p>
         <b>2x2 (July 8 - July 12)</b>
       </p>
@@ -33,19 +34,8 @@ const SpeedSchedule = ({ image, text }) => {
       <p>Beginner - 1 PM - 1:30 PM</p>
       <p>Intermediate - 1:45 PM - 2:15 PM</p>
       <p>Advanced - 2:45 PM - 3:15 PM</p>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <Button label="Register" url="https://forms.gle/BC8rp5uwGeskeJZq5" />
+     <br></br>
+      <Button label="Register" url="https://forms.gle/HdcA2wHq1QpLM8Xu5" />
       <br></br>
       <br></br>
     </div>

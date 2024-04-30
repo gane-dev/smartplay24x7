@@ -9,7 +9,7 @@ const Rian = () => {
         <center>
           A few years ago, in the March of 2022, I embarked on the captivating
         journey of Speedcubing. Ever since I first embarked on this journey,
-        I have sepent countless hours unraveling the secrets of this captivating puzzle.
+        I have spent countless hours unraveling the secrets of this captivating puzzle.
         Thanks to the invaluable guidance of YouTube tutorials, I eventually mastered
         various techniques essential for speedsolving a Rubik's cube. Since the begining
         of my journey as a Speedcuber my exponential growth has been marked
@@ -31,10 +31,15 @@ const Rian = () => {
         Check out my <i>World Cube Association</i> profile
       </a>
       <p>
-        <b>
-          <font size="+2">Fun Fact: I have attended 10 official World Cube Association (WCA) competitions.</font>
-        </b>
+        <ul>
+        <b>My Achievements:</b>
+        <br></br>
+          I have attended 10 official World Cube Association (WCA) competitions.
+          <br></br>
+          Won 4th place in 2024 Annual Maryland Chess Open.
+          </ul>
       </p>
+     
     </div>
     </center>
   );
