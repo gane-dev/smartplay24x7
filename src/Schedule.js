@@ -5,18 +5,15 @@ import SpeedSchedule from "./SpeedSchedule";
 const Schedule = () => {
   return (
     <div className="schedule">
-      <div>
-        <h2>Speed Cubing</h2>
+      <div >
+        <h2>Speedcubing</h2>
         <SpeedSchedule></SpeedSchedule>
       </div>
-      <div>
+      <div >
         <h2>CheckMate</h2>
         <ChessSchedule></ChessSchedule>
       </div>
-      <div>
-        <h2>Origamics</h2>
-        <OrigamiSchedule></OrigamiSchedule>
-      </div>
+      
     </div>
   );
 };

@@ -4,22 +4,18 @@ import Accordion from "./Accordion";
 const Home = () => {
   return (
     <div className="home">
-      {/* <h2>Who are we?</h2>
-      <WhoWeAre />
-      <h2>Why are we doing this?</h2>
-      <WhyAreWe />
-      <h2>Our Tenets?</h2>
-      <Tenets /> */}
+ 
       <div className="accordion-container">
-        <Accordion key={1} title={"Who are we?"} content={<WhoWeAre />} />
+        <Accordion key={1} title={"Who Are We?"} content={<WhoWeAre />} />
         <Accordion
           key={2}
-          title={"Why are we doing this?"}
+          title={"Our Goals"}
           content={<WhyAreWe />}
         />
         <Accordion
           key={3}
-          title={"What are our Tenets?"}
+          title={"Our Tenets"}
+          
           content={<Tenets />}
         />
       </div>
@@ -29,45 +25,43 @@ const Home = () => {
 const WhoWeAre = () => {
   return (
     <div>
-      <ul>
-        <li>
-          We are a group of self-motivated middle school students who excel in
-          analytical thinking. We thrive on challenges that test our hand-eye
-          coordination skills.
-        </li>
-        <li>
-          With lightning thinking speed and dexterous fingers, we beat time!
-        </li>
-        <li>
-          We are amateur teachers but have a huge drive to share our learnings
-          and create a healthy sporting community.
-        </li>
-      </ul>
+      <h2><b>We Are...</b></h2>
+      <ol>
+        <li>A dynamic collective of enthusiastic learners</li>
+        <li>Individuals with a shared passion which drives us to continually acquire knowledge</li>
+        <li>Dedicated to fostering a culture of continuous growth</li>
+        <li>Believers in freely sharing insights and exchanging ideas</li>
+        <li>Nurturers of collective wisdom</li>
+        <li>Ones who strive to create an inclusive environment where all members feel empowered</li>
+        <li>Ones who believe the journey of discovery is one of collaboration, contribution, and mutual thriving</li>
+      </ol>
     </div>
   );
 };
 const WhyAreWe = () => {
   return (
     <div>
-      <p>
-        We enjoy playdates, and what could be better than creating a virtual
-        club to connect with more friends? We can challenge each other to
-        engaging mental games, all while overcoming not only the clock but also
-        the sweltering summer heat.
-      </p>
+      <h2><b>Our Objectives Are To...</b></h2>
+       <ol>
+        <li>Foster the intellectual growth of young individuals</li>
+        <li>Refine our teaching abilities to better educate and inspire</li>
+        <li>Participate in deliberate practice to elevate our own compentencies and those of others</li>
+        <li>Connect with like-minded individuals to share and enjoy hobbies together</li>
+      </ol>
     </div>
   );
 };
 const Tenets = () => {
   return (
     <div>
-      <ul>
-        <li>Respect for time is mutual.</li>
-        <li>Practice is the only permanent step towards success.</li>
-        <li>Failures are the best teachers.</li>
-        <li>Sharing knowledge is the best way of giving back to society.</li>
-        <li>Opponents are allies outside the game.</li>
-      </ul>
+      <h2><b>Our Principles Are...</b></h2>
+      <ol>
+        <li>Mutual respect for time is paramount</li>
+        <li>Consistent practice is the sole enduring path to success</li>
+        <li>Failures serve as invaluable instructors</li>
+        <li>Sharing knowledge stands as the finest form of societal contribution</li>
+        <li>Opponents are allies beyond the confines of the game</li>
+      </ol>
     </div>
   );
 };

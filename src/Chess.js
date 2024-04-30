@@ -2,47 +2,33 @@ const Chess = () => {
   return (
     <div>
       <p>
-        <b>CheckMate</b> - Control an army of chess pieces and checkmate your
-        opponent’s King in a time sensitive thought provoking chess game.
+        <b>CheckMate</b> - Lead a battalion of chess pieces strategically to checkmate your opponent's King in a time-sensitive and thought-provoking chess match.
       </p>
       <p>
         <b>Materials</b>:
-        <a href="http://www.chess.com" target="_blank" rel="noreferrer">
+      <a href="http://www.chess.com" target="_blank" rel="noreferrer">
           {" "}
-          We will use Chess.com
+        We will utilize Chess.com throughout our workshops.
         </a>
         <p>Assess your proficiency level to decide your group.</p>
       </p>
       <table>
         <tr>
-          <td>Pre-Beginner</td>
-          <td>Need to learn the rules of chess</td>
+          <td><center>Beginner</center></td>
+          <td>
+<center>If you're new to the world of chess and find yourself unfamiliar with its rules and intricacies, you're embarking on a journey of discovery and learning. As a novice to this timeless game, you have yet to unravel the complexities of its strategies and tactics, but your curiosity and eagerness to delve into this intellectual pursuit are boundless.</center></td>
         </tr>
         <tr>
-          <td>Beginner</td>
+          <td><center>Intermediate</center></td>
           <td>
-            Log in to Chess.com. Navigate to tab: Play - &gt; Computer -
-            &gt;Beginner Select Bot ‘Elani 400’ If you are able to consistently
-            beat Elani 400 in 3 out of 5 games, then you are an intermediate
-            player. If you can't, then you are a beginner.
+            
+<center>With a foundational understanding of the rules of chess, you've taken your initial steps into the intricate world of this timeless game. However, despite your familiarity with the basics, you find yourself hesitating, lacking the confidence to fully trust your abilities on the board. Your journey is one of growth and exploration, as you seek to build upon your existing knowledge and develop the skills necessary to navigate the complexities of chess with assurance and poise.</center>
           </td>
         </tr>
         <tr>
-          <td>Intermediate</td>
+          <td><center>Advanced</center></td>
           <td>
-            Log in to Chess.com. Navigate to tab: Play- &gt; Computer -
-            &gt;Intermediate Select Bot ‘Emir 1000’ If you are able to
-            consistently beat Emir 1000 in 3 out of 5 games, then you are an
-            advanced player. If you can't, then you are an intermediate player.
-          </td>
-        </tr>
-        <tr>
-          <td>Advanced</td>
-          <td>
-            Log in to Chess.com. Navigate to tab: Play- &gt; Computer -
-            &gt;Advanced Select Bot ‘Francis 2300’ If you are able to
-            consistently beat Francis 2300 in 3 out of 5 games, then you are a
-            Master player. If you can't, then you are an Advanced player.
+          <center>With a wealth of knowledge accumulated through dedicated study and practical experience, you possess a robust understanding of chess. Your confidence on the board is unwavering as you deftly navigate through the complexities of the game. Whether analyzing positions, formulating strategies, or executing moves, your proficiency shines through, reflecting your deep-rooted confidence in your abilities. Your journey is one of continual growth and refinement, as you embrace new challenges and strive for excellence in every game you play.</center>
           </td>
         </tr>
       </table>

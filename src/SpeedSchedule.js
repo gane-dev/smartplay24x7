@@ -4,33 +4,50 @@ import Button from "./Button";
 const SpeedSchedule = ({ image, text }) => {
   return (
     <div className="schedule-container">
+     
       <br></br>
-      <p>We recommend learning 3x3, then move on to 2x2, Pyraminx</p>
-      <p>Workshops run from Mon - Fri (Bring you own cube)</p>
       <p>
         <b>Instructor Name</b>: Rian Ganesh
       </p>
 
       <p>
-        <b>3x3 (July 10 - July 14)</b>
+        <b>3x3 (July 1 - July 5)</b>
       </p>
-      <p>Beginner - 10:00 am - 10:45 am</p>
-      <p>Intermediate - 11:00 am -11:45 am</p>
-      <p>Advanced - 1:00 pm - 1:45 pm</p>
+      <p>Beginner - 1 PM - 1:30 PM</p>
+      <p>Intermediate - 1:45 PM -2:15 PM</p>
+      <p>Advanced - 2:45 PM- 3:13 PM</p>
       <p>
-        <b>2x2 (July 17 - July 21)</b>
+        <b>2x2 (July 8 - July 12)</b>
       </p>
-      <p>Beginner - 10:00 am - 10:45 am</p>
-      <p>Intermediate - 11:00 am -11:45 am</p>
-      <p>Advanced - 1:00 pm - 1:45 pm</p>
+      <p>Beginner - 1 PM - 1:30 PM</p>
+      <p>Intermediate - 1:45 PM - 2:15 PM</p>
+      <p>Advanced - 2:45 - 3:15 pm</p>
       <p>
-        <b>Pyraminx (July 24 - July 28)</b>
+        <b>Pyraminx (July 15 - July 19)</b>
       </p>
-      <p>Beginner - 10:00 am - 10:45 am</p>
-      <p>Intermediate - 11:00 am -11:45 am</p>
-      <p>Advanced - 1:00 pm - 1:45 pm</p>
+      <p>Beginner - 1:00 PM - 1:30 PM</p>
+      <p>Intermediate - 1:45 PM - 2:15 PM</p>
+      <p>Advanced - 2:45 - 3:15 pm</p>
+
+        <b>4x4 (July 22 - July 26)</b>
+      <p>Beginner - 1 PM - 1:30 PM</p>
+      <p>Intermediate - 1:45 PM - 2:15 PM</p>
+      <p>Advanced - 2:45 PM - 3:15 PM</p>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
       <br></br>
       <Button label="Register" url="https://forms.gle/BC8rp5uwGeskeJZq5" />
+      <br></br>
+      <br></br>
     </div>
   );
 };

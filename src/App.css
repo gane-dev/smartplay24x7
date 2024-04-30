@@ -93,6 +93,7 @@ main {
 }
 
 .accordion {
+  align-items: center ;
   width: 100%;
   margin-bottom: 10px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
@@ -108,6 +109,8 @@ main {
 }
 
 .accordion-header h2 {
+  align-items: center;
+  align-content: center;
   margin: 0;
 }
 
@@ -159,7 +162,7 @@ main {
 }
 .schedule {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
   grid-gap: 10px; /* Adjust the gap between sections as needed */
 }
 .meet {
@@ -187,11 +190,15 @@ th {
 tr:nth-child(even) {
   background-color: #f9f9f9;
 }
+.text-name {
+  align-items: left;
+}
 
 tr:hover {
   background-color: #e9e9e9;
 }
 .schedule-container {
+ 
  background-color: lightgrey;
  text-align: center;
   min-height: 80vh;
@@ -207,9 +214,7 @@ button {
 .schedule-table {
   width: 100%;
 }
-.events {
-  text-align: center;
-}
+
 .header-div {
   width: 100%;
 }

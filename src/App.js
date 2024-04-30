@@ -26,8 +26,8 @@ function App() {
         </div>
 
         <div className="header-div">
-          <h1>Welcome to Smart Play 24x7!!!</h1>
-          <h3>Free Virtual Indoor Sports club for kids by kids</h3>
+          <h1>Welcome to SmartPlay 24x7!</h1>
+          <h3>A Free Virtual Summer Camp for Kids by Kids</h3>
           <nav>
             <ul>
               <li>
@@ -39,16 +39,14 @@ function App() {
               <li>
                 <a href="#registration">Registration</a>
               </li>
-              <li>
-                <a href="#events">Events</a>
-              </li>
-            </ul>
+             
+                          </ul>
           </nav>
         </div>
       </header>
       <main className="content">
         <div className="registration">
-          <p>Registration is now open!!!</p>
+          <p>Registration is now open!</p>
         </div>
         <section id="home" className="section">
           <h1>About Us</h1>
@@ -64,17 +62,14 @@ function App() {
           <Games></Games>
         </section>
         <section id="registration" className="section">
-          <h1>Schedule (All time in EST)</h1>
+          <h1>Schedule</h1>
+          <h2>All timings are in Eastern Standard Time (EST)</h2>
           <h3>
-            All Workshops will be run in a virtual format using zoom. Class
-            logistics will be emailed post registration completion
+           
+The workshops will be conducted virtually via Zoom.
+Upon completing your registration, you will receive an email containing the logistical details for accessing the classes.
           </h3>
           <Schedule></Schedule>
-        </section>
-        <section id="events" className="section">
-          <h1>Events</h1>
-          <h1 className="registration">Summer 2023 Wrap up Tournaments</h1>
-          <Events></Events>
         </section>
       </main>
       <footer className="footer">

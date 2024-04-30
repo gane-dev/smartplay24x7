@@ -4,12 +4,12 @@ import Accordion from "./Accordion";
 const Overview = () => {
   const accordionSections = [
     {
-      title: "Who are we?",
+      title: "Who Are We?",
       content:
-        "We are self motivated middle school analytical thinkers, challenging our hand eye coordinations. With lightning thinking speed and dexterous fingers, we beat time! We are amateur teachers but have a huge drive to share our learnings and create a healthy sporting community. Content for section 1...",
+        "We are a dynamic collective of enthusiastic learners, driven by a shared passion for acquiring knowledge and nurturing a culture of continuous growth. Our dedication extends beyond personal development; we are equally committed to cultivating a supportive community where insights are shared freely, ideas are exchanged, and collective wisdom flourishes. Through our collaborative efforts, we aim to create an inclusive environment where every member feels empowered to contribute, learn, and thrive together on our journey of discovery."
     },
     {
-      title: "Why are we doing this?",
+      title: "Our Goals",
       content:
         "We like playdates. And what's better than forming a virtual club to meet more friends, challenging each other for a good mental sport, while beating not just the time but also the scorching summer heat",
     },

@@ -15,14 +15,11 @@ const Games = () => {
       />
       <Accordion
         key={2}
-        title={"Speed Cubing"}
+        title={"Speedcubing"}
         content={<Meet image="/speed.jpeg" profile={<SpeedCubing />}></Meet>}
       />
-      <Accordion
-        key={3}
-        title={"Origami"}
-        content={<Meet image="/origami.jpeg" profile={<Origami />}></Meet>}
-      />
+      
+    
     </div>
   );
 };
