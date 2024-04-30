@@ -57,7 +57,7 @@ function App() {
         <section id="overview" className="section">
           <h1>Overview</h1>
           <h3>
-            Practice sessions are available for participants of ages between 8 to 12
+            Practice sessions are available for participants of ages between 8 to 14
           </h3>
           <Games></Games>
         </section>
