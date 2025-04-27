@@ -56,14 +56,11 @@ function App() {
         </section>
         <section id="overview" className="section">
           <h1>Overview</h1>
-          <h3>
-            Practice sessions are available for participants of ages between 8 to 14
-          </h3>
           <Games></Games>
         </section>
         <section id="registration" className="section">
-          <h1>Schedule</h1>
-          <h2>All timings are in Eastern Standard Time (EST)</h2>
+          <h1>Schedule & Registration</h1>
+          <h2>All times are in Eastern Standard Time (EST)</h2>
           <h3>
            
 We will meet virtually via Zoom.

@@ -3,22 +3,22 @@ import "./App.css";
 import Button from "./Button";
 const PythonSchedule = ({ image, text }) => {
   return (
-    <div className="schedule-container">
+    <div className="schedule-container" style={{ padding: "0 35px" }}>
       <br></br>
       <b>All Classes are from Monday to Friday</b>
       <br></br>
       <p>
         <b>Instructor Name</b>: Reya & Rian Ganesh
       </p>
-      <br></br>
-      During this time, students will learn the basics of chess, including how
-      to set up the board, how each piece moves, and basic strategies for
-      playing the game. As the weeks progress, students will delve into more
-      advanced techniques, such as controlling the center, developing pieces
-      effectively, and other tactics. The class will be interactive and
-      hands-on, with plenty of opportunities for students to practice what they
-      learn and play against other sutdents.
-      <br></br>
+      <p>
+        <b>
+          Python Classes: 5:00 - 5:40 PM (July 7th - July 31st).
+        </b>
+      </p>
+      <p>
+      Python is a clean, versatile language prized for its readability and rich ecosystem—powering everything from dynamic websites with Django and Flask to data analysis and machine learning with pandas, NumPy, and scikit-learn. In each 40-minute session, we’ll introduce a core concept—variables, loops, or functions—and apply it in a hands-on mini-project, such as a simple calculator, web scraper, or text-based game.
+      Along the way, we’ll pause for quick quizzes and live coding challenges.
+      </p>
       <br></br>
       <b>Week One:</b> (July 7th - July 11th)<br></br>
       <br></br>
@@ -30,6 +30,7 @@ const PythonSchedule = ({ image, text }) => {
       <br></br>
       <br></br>
       <b>Week Four:</b> (July 28th - July 31st)<br></br>
+      <br></br>
       <br></br>
       <br></br>
       <br></br>

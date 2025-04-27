@@ -7,20 +7,7 @@ const Rian = () => {
       </p>
       <p>
         <center>
-          A few years ago, in the March of 2022, I embarked on the captivating
-        journey of Speedcubing. Ever since I first embarked on this journey,
-        I have spent countless hours unraveling the secrets of this captivating puzzle.
-        Thanks to the invaluable guidance of YouTube tutorials, I eventually mastered
-        various techniques essential for speedsolving a Rubik's cube. Since the begining
-        of my journey as a Speedcuber my exponential growth has been marked
-        by constant improvement. Through relentless practice and dedication, I
-        have honed my skills and now boast a personal record of an impressive
-        8.87 seconds in competition. Not only can I solve various cubes ranging
-        from 2x2 to 7x7, but I have also delved into a multitude of other
-        intriguing puzzles such as Pyraminx, Skewb, Square-1, and Megaminx. The
-        world of Speedcubing has become my passion, and I eagerly anticipate the
-        challenges and triumphs that lie ahead on this thrilling path of cubing
-        excellence.
+        Many years ago, I embarked on the fascinating journey of Chess. From the moment I first set my pieces on the board, learned the movements of each piece, and understood the rules of the game, I was captivated by the depth and beauty of the game. Since then, I have dedicated countless hours to studying openings, practice endgames, and sharpening my tactical skills. Similarly, a few years ago, starting a few years ago, I ventured into the world of Programming. Beginning with simple projects and gradually advancing to more complex applications, I have honed my skills through writing code, debugging programs, and bringing my ideas to life. These two passions of mine have been influential in my life, and shaped me as an individual. I eagerly look forward to the new challenges, milestones, and innovations that await me on these exciting journey.
         </center>
       </p>
       <a

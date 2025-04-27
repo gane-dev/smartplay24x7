@@ -10,13 +10,13 @@ const Games = () => {
     <div>
       <Accordion
         key={1}
-        title={"CheckMate"}
-        content={<Meet image="/Chess.jpeg" profile={<Chess />}></Meet>}
+        title={"Learn and Practice Chess: An Introduction to the Game"}
+        content={<Meet image="/smartplaychessnew.jpeg" profile={<Chess />}></Meet>}
       />
       <Accordion
         key={2}
         title={"Python"}
-        content={<Meet image="/speed.jpeg" profile={<Python />}></Meet>}
+        content={<Meet image="/python.jpg" profile={<Python />}></Meet>}
       />
     </div>
   );

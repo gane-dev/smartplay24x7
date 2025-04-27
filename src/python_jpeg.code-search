@@ -1,0 +1,9 @@
+# Query: speed.jpeg
+# ContextLines: 1
+
+1 result - 1 file
+
+src\Games.js:
+  18          title={"Python"}
+  19:         content={<Meet image="/python_smartplay.jpg" profile={<Python />}></Meet>}
+  20        />
