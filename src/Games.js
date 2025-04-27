@@ -1,9 +1,9 @@
 import React from "react";
 import "./App.css";
 import Meet from "./Meet";
-import SpeedCubing from "./SpeedCubing";
+
 import Chess from "./Chess";
-import Origami from "./Origami";
+import Python from "./Python";
 import Accordion from "./Accordion";
 const Games = () => {
   return (
@@ -15,11 +15,9 @@ const Games = () => {
       />
       <Accordion
         key={2}
-        title={"Speedcubing"}
-        content={<Meet image="/speed.jpeg" profile={<SpeedCubing />}></Meet>}
+        title={"Python"}
+        content={<Meet image="/speed.jpeg" profile={<Python />}></Meet>}
       />
-      
-    
     </div>
   );
 };

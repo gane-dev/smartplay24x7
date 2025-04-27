@@ -7,58 +7,44 @@ const ChessSchedule = () => {
       <br></br>
       <b>All Classes are from Monday to Friday</b>
       <br></br>
-      <p >
-        <b>Instructor Name</b>: Reya Ganesh & Rian Ganesh
+      <p>
+        <b>Instructor Names</b>: Reya Ganesh & Rian Ganesh
       </p>
       <p>
-        <b>Beginner Classes 3:30-4:00 PM (July 8 - Aug 2)
-          </b>
-          <br></br>
-          These classes are only for beginner students who will learn the basics of chess
-          <br></br>
-          <br></br>
-          <b>Week One:</b> (July 8 - July 12)<br></br>
-          <br></br>
-          <br></br>
-          <b>Week Two:</b> (July 15 - July 19)<br></br>
-          <br></br>
-          <br></br>
-          <b>Week Three:</b> (July 22 - July 26)<br></br>
-          <br></br>
-          <br></br>
-          <b>Week Four:</b> (July 29 - Aug 2)<br></br>
-        
-
-      <p >
-        <b>Challenge Time 4:15-4:45 PM (July 1 to July 26)</b>:<br></br>
-        Find players of your skill level and play against them in a safe virtual room. Detailed instructions will be shared when we start these sessions.
-
-   
-      </p>
-      <p>
-        <b>Practice Sessions for all groups</b>
+        <b>
+          Beginner Classes 4:00-4:40 PM (July 1st - August 1st). There will not
+          be class on July 4th.
+        </b>
+        <br></br>
+        During this time, students will learn the basics of chess, including how
+        to set up the board, how each piece moves, and basic strategies for
+        playing the game. As the weeks progress, students will delve into more
+        advanced techniques, such as controlling the center, developing pieces
+        effectively, and other tactics. The class will be interactive and
+        hands-on, with plenty of opportunities for students to practice what
+        they learn and play against other sutdents.
         <br></br>
         <br></br>
-        <b>Week One:</b> (July 8 - July 12)<br></br>
+        <b>Week One:</b> (July 7th - July 11th)<br></br>
         <br></br>
         <br></br>
-        <b>Week Two:</b> (July 15 - July 19)<br></br>
+        <b>Week Two:</b> (July 14th - July 18th)<br></br>
         <br></br>
         <br></br>
-        <b>Week Three:</b> (July 22 - July 26)<br></br>
+        <b>Week Three:</b> (July 21st - July 25th)<br></br>
         <br></br>
         <br></br>
-        <b>Week Four:</b> (July 29 - Aug 2)<br></br>
-
-      </p>
-
-     
-      <Button label="Register" url="https://forms.gle/vkn2kSZ6Ycm1Ub528" />
-      <br></br>
-      <br></br>
+        <b>Week Four:</b> (July 28th - July 31st)<br></br>
+        <br></br>
+        <br></br>
+        <Button
+          label="Register"
+          url="https://docs.google.com/forms/d/e/1FAIpQLSdh5329ja0am_svfpLajxxCbsXPzU3UOyZFRx6jb9yduZOUhw/viewform?usp=sharing"
+        />
+        <br></br>
+        <br></br>
       </p>
     </div>
-
   );
 };
 export default ChessSchedule;

@@ -1,19 +1,17 @@
 import ChessSchedule from "./ChessSchedule";
-import OrigamiSchedule from "./OrigamiSchedule";
-import SpeedSchedule from "./SpeedSchedule";
+import PythonSchedule from "./PythonSchedule";
 
 const Schedule = () => {
   return (
     <div className="schedule">
-      <div >
-        <h2>Speedcubing</h2>
-        <SpeedSchedule></SpeedSchedule>
+      <div>
+        <h2>Python</h2>
+        <PythonSchedule></PythonSchedule>
       </div>
-      <div >
+      <div>
         <h2>CheckMate</h2>
         <ChessSchedule></ChessSchedule>
       </div>
-      
     </div>
   );
 };
